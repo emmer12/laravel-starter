@@ -1,5 +1,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/396987/82162573-6940f500-98c7-11ea-974e-888b4f866c74.jpg" alt="Laravel Starter - A CMS like modular starter project built with Laravel"></p>
+![28](https://user-images.githubusercontent.com/41456460/137262069-22da26d7-9d97-4e12-a15d-9b96ac8011e3.jpg)
 
 # Laravel Starter (based on Laravel 8.x)
 **Laravel Starter** is a Laravel 8.x based simple starter project. It can be used to build all type of applications. Most of the commonly needed features like Authentication, Application Backend, Backup, Logviewer are available here. It is modular, so you can use this project as a base and build your own modules. You can use the same module in any of the `Laravel Starter` based projects. New features and functionalities are being added on a regular basis.
